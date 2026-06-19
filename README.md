@@ -1,8 +1,12 @@
 # GRAM: Generate Resource/Assets Module
 
-Gram is a simple Zig library with a single purpose: generating a Zig module for
-your resources or assets. It's so simple in fact, that it exists entirely within
+Gram is a lightweight Zig library with a single purpose: generating a Zig module for
+your resources or assets. It's so lightweight in fact, that it exists entirely within
 the `build.zig`.
+
+[![Static Badge](https://img.shields.io/badge/v0.16(stable)-orange?logo=Zig&logoColor=Orange&label=Zig&labelColor=Orange)](https://ziglang.org/download/)
+[![Static Badge](https://img.shields.io/badge/MIT-silver?label=License)](https://github.com/00JCIV00/cova/blob/main/LICENSE)
+
 
 ## Installation
 
